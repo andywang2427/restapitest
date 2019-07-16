@@ -2,11 +2,11 @@
   "alertAmount":"2",
   "alertMessage":"There are two large amount of transactions on your visa card XXXXXXXXXXX today"
   "detailedMessage": [
-  {"Trans 1. $5000 at APPLE STORE"},
-  {"Trans 2. $10,000 at Yorkdale"}
+    {"Trans Number": "1", "Amound": "$5000","location": "APPLE STORE"},
+    {"Trans Number": "2", "Amound": "$10,000","location": "Yorkdale"}
   ],
   "alertStatus": [
-    {"Trans 1. Pending Review"},
-    {"Trans 2. Not Fraud"}
+    {"Trans Number": "1", "Status":" Pending Review"},
+    {"Trans Number": "2", "Status":" Not Fraud"}
   ]
 }
