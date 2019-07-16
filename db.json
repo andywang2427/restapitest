@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "alertAmount":"2",
+  "alertMessage":"There are two large amount of transactions on your visa card XXXXXXXXXXX today"
+  "detailedMessage":[
+  {"Trans 1. $5000 at APPLE STORE"},
+  {"Trans 2. $10,000 at Yorkdale"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "alertStatus":[
+    {"Trans 1. Pending Review"},
+    {"Trans 2. Not Fraud"}
+  ]
 }
