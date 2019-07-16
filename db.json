@@ -1,6 +1,6 @@
  {
- "alertOriginatorSystemCode":"1",
- "rbcStrongId":"device1",
- "clientResponseTypeCode":"1",
- "clientResponse":"nein"
+     "alertOriginatorSystemCode":"1",
+     "rbcStrongId":"device1",
+     "clientResponseTypeCode":"1",
+     "clientResponse":"nein"
  }
