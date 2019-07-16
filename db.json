@@ -1,6 +1,6 @@
 {
   "alertAmount":"2",
-  "alertMessage":"There are two large amount of transactions on your visa card XXXXXXXXXXX today"
+  "alertMessage":"There are two large amount of transactions on your visa card XXXXXXXXXXX today",
   "detailedMessage": [
     {"Trans Number": "1", "Amound": "$5000","location": "APPLE STORE"},
     {"Trans Number": "2", "Amound": "$10,000","location": "Yorkdale"}
